@@ -32,7 +32,7 @@ product_list = []
 
 
 for product, price in products.items():
-    quantity = st.number_input(f"{product.upper()}:", value=0)
+    quantity = st.number_input(f"{product.upper()}:", value=0, min_value=0)
     total_amount += quantity * price
     if quantity > 0:
         product_list.append((product, quantity))
