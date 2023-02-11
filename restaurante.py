@@ -6,9 +6,10 @@ st.title("Restaurante & Bar do NEU 🍗")
 st.markdown('### Comanda')
 
 products = {
-    "Agua": 2,
-    "Agua com gás": 3,
+    "Água": 2,
+    "Água com gás": 3,
     "Almoço": 40,
+    "Caçula": 3,
     "Cerveja": 10,
     "Cerveja lata": 5,
     "Coca 2 litros": 15,
@@ -16,9 +17,9 @@ products = {
     "Coca Ks": 5,
     "Coca lata": 5,
     "Cone": 4,
-    "Copinho de pinga": 3,
     "Garaná 2 litros": 8,
     "Garaná lata": 5,
+    "Pinga copo": 3,
     "Pinga dose": 3,
     "Porção Peixe": 45,
     "Porção Torresmo": 30,
