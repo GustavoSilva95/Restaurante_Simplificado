@@ -19,7 +19,7 @@ products = {
     "Cone": 4,
     "Guaraná 2 litros": 8,
     "Guaraná lata": 5,
-    "Pinga copo": 3,
+    "Pinga copo": 5,
     "Pinga dose": 3,
     "Porção Peixe": 45,
     "Porção Torresmo": 30,
