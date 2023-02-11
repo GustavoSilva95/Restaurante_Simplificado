@@ -3,7 +3,7 @@ import streamlit as st
 st.set_page_config(page_title="Restaurante & Bar do NEU", page_icon="🍗", layout="centered")
 
 st.title("Restaurante & Bar do NEU 🍗")
-st.markdown('### Comanda')
+st.markdown('### COMANDA')
 
 products = {
     "Água": 2,
@@ -32,7 +32,7 @@ product_list = []
 
 
 for product, price in products.items():
-    quantity = st.number_input(f"{product}:", value=0)
+    quantity = st.number_input(f"{product.upper()}:", value=0)
     total_amount += quantity * price
     if quantity > 0:
         product_list.append((product, quantity))
