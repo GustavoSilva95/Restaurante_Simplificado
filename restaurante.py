@@ -1,8 +1,8 @@
 import streamlit as st
 
-st.set_page_config(page_title="Restaurante & Bar no NEU", page_icon="🍗", layout="centered")
+st.set_page_config(page_title="Restaurante & Bar do NEU", page_icon="🍗", layout="centered")
 
-st.title("Restaurante & Bar no NEU 🍗")
+st.title("Restaurante & Bar do NEU 🍗")
 st.markdown('### Comanda')
 
 products = {
