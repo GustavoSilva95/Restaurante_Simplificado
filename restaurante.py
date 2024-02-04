@@ -26,7 +26,7 @@ products = {
     "Pinga dose": 3,
     "Porção Peixe": 45,
     "Porção Torresmo": 30,
-    "Pudim": 3,
+    "Pudim": 4,
     "Suco": 15,
 }
 
