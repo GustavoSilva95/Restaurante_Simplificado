@@ -9,6 +9,8 @@ products = {
     "Água": 2,
     "Água com gás": 3,
     "Almoço": 40,
+    "Almoço 1/2": 15,
+    "Caipirinha": 15,
     "Caçula": 3,
     "Cerveja": 12,
     "Cerveja lata": 5,
