@@ -18,7 +18,7 @@ products = {
     "Coca 600": 8,
     "Coca Ks": 5,
     "Coca lata": 5,
-    "Cone": 4,
+    "Cone": 5,
     "Guaraná 2 litros": 8,
     "Guaraná lata": 5,
     "Marmitex": 25,
@@ -28,6 +28,7 @@ products = {
     "Porção Torresmo": 30,
     "Pudim": 4,
     "Suco": 15,
+    "Suco Copo":7.5
 }
 
 total_amount = 0
