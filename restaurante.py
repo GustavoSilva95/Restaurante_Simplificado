@@ -25,6 +25,7 @@ products = {
     "Marmitex": 25,
     "Pinga copo": 5,
     "Pinga dose": 3,
+    "Pinga Litro": 25,
     "Porção Peixe": 45,
     "Porção Torresmo": 30,
     "Pudim": 4,
