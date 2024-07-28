@@ -16,7 +16,7 @@ products = {
     "Cerveja lata": 5,
     "Cerveja sem Alcool":6,
     "Coca 2 litros": 15,
-    "Coca 600": 8,
+    "Coca 600": 10,
     "Coca Ks": 5,
     "Coca lata": 5,
     "Cone": 5,
